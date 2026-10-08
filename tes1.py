@@ -1,0 +1,1 @@
+print ("baris 1 dari utama")
